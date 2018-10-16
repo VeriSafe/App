@@ -2,7 +2,7 @@
 
 All development technical details will be presentend here. Check our active development at our [scrum board](https://trello.com/b/n1q27txA/cpollo-development). The smart contracts used by the [app](https://appcpollo.info) are public, however,  the web app is closed source.
 
-# Tecnhology structure
+# Technology structure
 
 - Backend: Firebase with Google cloud functions running all the logic
 - Database: Cloud Firestore
